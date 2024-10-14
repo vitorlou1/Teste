@@ -15,7 +15,7 @@ def test_peso_zero():
 #Verifica se de fato os erros previstos estão sendo considerados
 def test_altura_negativa():
     imc = calculo(70, -1.75)
-    assert imc == 1
+    assert imc == -1
     
 #Verifica se de fato os erros previstos estão sendo considerados
 def test_altura_invalida():
