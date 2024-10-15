@@ -1,3 +1,14 @@
+# [P1] Atividade extra sobre teste de integração
+#
+#   A atividade baseada no algoritmo de cálculo de IMC, previamente entregue em uma atividade anterior, serve de base para
+# aplicarmos os testes do principal framework de teste do python, o pytest, aplicado juntamente com o Github Actions.
+#   O objetivo é configurar testes automatizados para verificar a precisão e confiabilidade do cálculo do IMC, garantindo a 
+# funcionalidade correta em diferentes cenários.
+#
+# Aluno: Vitor José Lou da Costa
+# Data: 14/10/2024
+# Link do repositório no Github: https://github.com/vitorlou1/Teste.git
+
 name: CI Pipeline
 
 on:
